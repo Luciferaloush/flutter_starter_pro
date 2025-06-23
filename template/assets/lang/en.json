@@ -1,0 +1,15 @@
+{
+ "appName": "My App",
+ "welcome": "Welcome",
+ "login": "Login",
+ "Register": "Register",
+ "hello": "Hello",
+ "ChangeLanguage": "Change Language",
+ "Mode": "Mode",
+ "language": "Language",
+ "My_Profile": "My Profile",
+ "edit_profile": "Edit Profile",
+ "edit": "Edit",
+ "save": "Save",
+ "Already_have_an_account": "Already have an account?"
+}

@@ -1,0 +1,55 @@
+name: mawedak
+description: A new Flutter project with Clean Architecture by Ali Habib
+# Flutter version on machine: 3.16.9
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc:
+  dio:
+  shared_preferences:
+  easy_localization:
+  intl:
+  equatable:
+  get_it:
+  cached_network_image:
+  flutter_screenutil:
+  flutter_animate:
+  freezed_annotation:
+  json_annotation:
+  flutter_native_splash:
+  animate_do:
+  lottie:
+  #google_fonts:
+  flutter_launcher_icons:
+  animator:
+  dartz:
+  flutter_svg:
+  cupertino_icons:
+  image_picker: ^1.0.8
+  cloudinary_public: ^0.23.1
+  table_calendar: ^3.0.9
+  flutter_rating_bar: ^4.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner:
+  freezed:
+  json_serializable:
+  bloc_test:
+  mockito:
+  flutter_lints:
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/lottie/
+    - assets/lang/
