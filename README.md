@@ -29,7 +29,7 @@ best practices, and useful boilerplate files to kickstart your app.
   
 🚀 Getting Started
 Clone the repository:
-git clone https://github.com/your-username/flutter_starter_pro.git cd flutter_starter_pro
+git clone https://github.com/Luciferaloush/flutter_starter_pro
 Install dependencies:
 flutter pub get
 Run the app:
@@ -37,5 +37,5 @@ flutter run
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 💬 Author
-Developed by Ali Hussien Habib (https://github.com/your-username)
+Developed by Ali Hussien Habib (https://github.com/Luciferaloush)
 Feel free to contribute or suggest improvements!
