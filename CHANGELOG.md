@@ -1,3 +1,6 @@
-## 1.0.0
+## 1.0.7
+- Fixed bugs and improved overall stability.
+- Updated dependencies.
 
-- Initial version.
+## 1.0.8
+- Updated template

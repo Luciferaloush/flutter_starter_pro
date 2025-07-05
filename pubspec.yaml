@@ -1,6 +1,7 @@
 name: flutter_starter_pro
-description: A sample command-line application.
-version: 1.0.0
+description: A clean and customizable Flutter starter template that provides best practices, organized structure,
+  localization support, state management (Cubit), and reusable UI components.
+version: 1.0.8
 repository: https://github.com/Luciferaloush/flutter_starter_pro
 
 environment:
